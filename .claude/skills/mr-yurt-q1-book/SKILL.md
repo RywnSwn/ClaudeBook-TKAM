@@ -24,6 +24,24 @@ a specific line or word choice reveals something about a character.
 This is not a one-sitting tool. It spans weeks. That changes how it has
 to work.
 
+## The bigger summative: book vs. film
+
+Heads up from class (confirmed, not a secret): the actual summative
+assessment for the quarter is a **compare/contrast between the novel and
+the 1962 film adaptation** directed by Robert Mulligan, specifically how
+each medium builds character. The book uses techniques like dialogue and
+narrative inference (narration, description, what's implied). The film
+will use its own toolkit, acting choices, camera work, editing, what
+scenes/lines get cut or changed from the book.
+
+This means STEAL work on the book isn't just an end in itself, it's the
+half of the comparison Claude can help build now, before the film's been
+watched. Every STEAL moment logged should stay specific about *how* Lee
+builds it (is it through dialogue? narration? what a character does?)
+since that's the exact thing that'll get compared to the film's approach
+later. Don't wait until the film comparison unit to start thinking this
+way, build the habit from chapter 1 on.
+
 ## The deadline
 
 This is not a single one-and-done deadline. Tests happen on a rolling
@@ -103,7 +121,7 @@ new dates.
 
 ## Character Tracker (STEAL)
 ### [Character name]
-- [chapter] - "[short quote fragment]" - [STEAL category] - [trait it reveals]
+- [chapter] - "[short quote fragment]" - [STEAL category] - [technique: dialogue / narration-description / action-on-page] - [trait it reveals]
 
 ## Flagged / Needs Revisit
 - [anything the user was shaky on, so it resurfaces instead of getting lost]

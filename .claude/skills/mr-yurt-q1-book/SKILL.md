@@ -26,12 +26,15 @@ to work.
 
 ## The deadline
 
-Test covers chapters 1 through 6. Test day is **Monday, Aug 24, 2026**.
-Chapter 6 needs to be finished and logged before then. Every session,
-check the current date against this and flag out loud if the pace looks
-off (e.g. still on chapter 2 with a week left). Don't nag about it
-constantly, just surface it plainly when it's relevant, at the start of
-a session or when logging progress.
+This is not a single one-and-done deadline. Tests happen on a rolling
+basis, roughly every couple weeks, covering whatever chapters have piled
+up since the last one, exact cadence isn't fixed. Don't hardcode a test
+date in this skill file, it goes stale. Instead, the **log file** tracks
+the current "Next test" date and which chapters it covers, since that's
+the thing that gets updated live each session. If the log doesn't have a
+next test date yet, ask the user. Every session, check the current date
+against whatever's in the log and flag out loud if the pace looks off.
+Don't nag constantly, just surface it plainly when relevant.
 
 ## Read this first: source of truth
 
@@ -83,7 +86,13 @@ open one if they explicitly ask for it.
 # TKAM Quarter 1 Log
 
 ## Goal
-Chapters 1-6 done before test day, Mon Aug 24 2026.
+Rolling tests roughly every couple weeks, covering chapters read since
+the last one. Track the next known test below, update as the user learns
+new dates.
+
+## Next Test
+- Date: [date, or "unknown" if not yet announced]
+- Covers: [chapters]
 
 ## Session History
 - [date] - Chapter X - [one line: what was covered]
@@ -98,6 +107,17 @@ Chapters 1-6 done before test day, Mon Aug 24 2026.
 
 ## Flagged / Needs Revisit
 - [anything the user was shaky on, so it resurfaces instead of getting lost]
+
+## Notes
+This section is shared: Claude's remarks and the student's own notes for
+school both live here, side by side, so there's one place to review
+before a test.
+
+### Claude's remarks
+- [chapter] - [observation, correction, or explanation worth remembering]
+
+### Student's notes
+- [chapter] - [the user's own written notes, in their words]
 ```
 
 ## The core loop, per chapter

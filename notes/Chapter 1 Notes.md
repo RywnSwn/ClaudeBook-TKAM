@@ -29,6 +29,7 @@ DONE (confidence: solid, rough start but comprehension and STEAL-spotting improv
 - Ch 1 - refuses to talk about the Radleys, tells Jem to "mind his own business and let the Radleys mind theirs" - Speech / Actions - technique: dialogue - shows Atticus respects privacy and won't gossip, contrasts directly with Miss Stephanie Crawford
 
 ## Flagged / Needs Revisit
+- OWED: explain-back check on the STEAL tracker below (Jem/Boo/Atticus). Started end of session on 8/13 but user was too reading-fatigued to actually recall anything, recap wasn't landing. Do this fresh at the START of next session, before moving on to Chapter 2, retrieval works way better rested than forced.
 - The scissors-stabbing story (Boo stabbing his father) is told entirely through Miss Stephanie Crawford, "a neighborhood scold" known for gossip. Not confirmed as fact by the narrative itself. Keep treating it as unreliable rumor, not established truth, until/unless the book confirms it later.
 - General note: chapter 1 is unusually dense with background/exposition (family history, town history, Radley backstory) before the actual present-day plot (the dare) gets going. If chapter 2 also drags at first, that's normal, not a comprehension problem.
 

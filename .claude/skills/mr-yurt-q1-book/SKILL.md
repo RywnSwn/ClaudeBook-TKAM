@@ -197,6 +197,23 @@ before a test.
    flag it under "Needs Revisit" so it can resurface later (before the
    test, or when a related character moment comes up again) instead of
    quietly disappearing.
+9. **Once a chapter is fully done, run a teach-then-recall pass on that
+   chapter's logged STEAL moments**, only when the user has the energy for
+   it (skip or defer if they're reading-fatigued, do it fresh next
+   session instead, see the "OWED" pattern in Flagged/Needs Revisit).
+   The point isn't just passing a test, it's the user being able to
+   defend their own reasoning out loud if someone questions where an
+   idea came from (e.g. "did you actually come up with this or did AI").
+   Two parts:
+   - **Teach:** for each moment, walk through the *reasoning process*,
+     not just the conclusion. How would you notice this is a STEAL
+     moment in the first place? Why this category and not another? Why
+     does this specific word choice matter? Make the logic visible and
+     reconstructable, not something to memorize as a fact.
+   - **Recall:** then quiz the user cold, no notes, no hints, have them
+     reconstruct the reasoning themselves from scratch. If they can only
+     recite what Claude said, that's not done yet, keep at it (or flag
+     it and revisit) until they can rebuild the "why" on their own.
 
 ## STEAL, quick reference
 

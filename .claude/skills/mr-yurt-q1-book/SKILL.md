@@ -70,6 +70,13 @@ or a chapter gets wrapped up):
 - Never assume a past session is still in context. If the log wasn't
   brought into this session, you don't have it.
 
+## Git workflow
+
+Commit and push changes (log updates, chapter notes, this skill file
+itself) directly to the working branch as they happen. Don't open a pull
+request after every change, the user doesn't want a PR per edit. Only
+open one if they explicitly ask for it.
+
 ## Log file structure
 
 ```markdown
@@ -136,6 +143,14 @@ Chapters 1-6 done before test day, Mon Aug 24 2026.
 - **E**ffect on others, how people react to them
 - **A**ctions, what they actually do
 - **L**ooks, physical description
+
+Don't forget the narrator counts too. TKAM is narrated by an older Scout
+looking back, so lines that reveal how she's framing or remembering the
+story (like tense/time cues, "then" vs "now") are legit Thoughts moments
+for Scout-as-narrator, not just scene-level character work. If the user
+gets tripped up on something in the opening pages because the retrospective
+narration isn't obvious yet, that confusion is a genuine catch, not
+something to wave off as already-known context.
 
 ## Style notes
 

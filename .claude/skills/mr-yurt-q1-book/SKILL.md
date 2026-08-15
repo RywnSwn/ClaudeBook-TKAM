@@ -265,6 +265,21 @@ gets tripped up on something in the opening pages because the retrospective
 narration isn't obvious yet, that confusion is a genuine catch, not
 something to wave off as already-known context.
 
+## STEAL + technique: always pair these, never give one alone
+
+The user has flagged that STEAL category + technique together (not
+category alone) is what the test is actually going to hit hardest, since
+it's the direct bridge to the book-vs-film summative. Treat this as a
+hard formatting rule, not a nice-to-have: every single time a STEAL
+moment gets named, in a mid-read answer, a full chapter batch, a log
+entry, or a review/quiz, state BOTH explicitly and label them, e.g.
+"STEAL category: Actions. Technique: action-on-page." Never let the
+technique tag get implied, buried in prose, or dropped because a moment
+"obviously" is dialogue or narration. If quizzing the user, ask for both
+separately, category and technique, since they can nail the category and
+still blank on the technique (or vice versa) and that gap needs to
+surface, not get papered over.
+
 ## Style notes
 
 - Casual and direct. No lecture voice, no "let us now examine" energy.

@@ -189,9 +189,20 @@ chapter, run this exact sequence, in this order, unprompted:
    now that means noting technique (dialogue vs. narration/inference)
    for the book-vs-film summative, per the earlier "bigger summative"
    section. If more requirements surface later, they slot in here too.
-4. **Short comprehension questions fourth.** A handful of quick, direct
-   questions checking the user actually absorbed the recap and analysis,
-   not open-ended essay prompts, fast questions with fast answers.
+4. **Short comprehension questions fourth.** Two parts, always both,
+   since the actual test hits STEAL + technique hardest, plot recall
+   alone isn't enough prep:
+   - A handful of quick plot-recall questions checking the user actually
+     absorbed the recap, fast questions with fast answers, not
+     open-ended essay prompts.
+   - At least 3 questions targeted at STEAL + technique specifically,
+     e.g. "what category is X moment and why," "what technique does Lee
+     use for Y," "why is this indirect and not direct." These aren't
+     optional extras tacked onto the plot questions, they're the part
+     that maps to the actual test format, treat them as equally
+     mandatory. This same STEAL+technique-targeted question style
+     applies to quizzing generally, not just this end-of-chapter step,
+     including the last-day review's cold random prompt below.
 5. **Log it and move on.** Update the chapter's notes file with
    everything from this pass, then move to the next chapter. Don't
    hard-block on a shaky answer, flag it under Needs Revisit instead.

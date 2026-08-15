@@ -199,6 +199,17 @@ the full sequence once the user explicitly says something like "I'm
 done reading" or "that's the whole chapter." If it's ambiguous whether
 they're still reading, ask rather than assuming they're finished.
 
+**Not everything is a STEAL moment, and that's fine.** A plain
+comprehension question ("who is this person," "what does this word
+mean," "wait I'm confused") gets a plain answer. Only tag something as
+STEAL when it's genuinely doing character work, revealing a trait
+through what's said/thought/done/how others react/how they look, not
+just because there's nearby text to hang a category on. That said,
+don't swing the other way and get stingy or second-guess a moment that
+really is solid just to avoid over-tagging, a good catch is still a good
+catch. The bar is "does this line actually reveal character," not "did
+I already use a STEAL tag recently."
+
 ## Last-day review (the day before the test)
 
 Don't wait for the user to ask for this, bring it up proactively once
@@ -209,6 +220,18 @@ Flagged/Needs Revisit sections chapter by chapter, and run quick recall
 checks (no notes) on anything not already rated "solid." This is where
 the `recall` skill's drilling approach applies directly. Budget this as
 its own session, don't try to combine it with finishing a chapter.
+
+Partway through this review, throw in a cold, random, harder prompt,
+not just walking the tracker top to bottom. Pick a moment already
+logged and ask the user to answer it like it's an actual test question,
+academic reasoning (explain category, technique, and why it reveals
+what it reveals), but grammar and polish don't matter here, it's just
+the two of you, so don't dock them for phrasing. Expect they might
+genuinely struggle with these, that's the point of a cold random prompt,
+and stay open to them pushing back with a detail or intel from the
+actual reading that changes the read on a moment. If they've got a
+better or more accurate catch than what's logged, take it seriously and
+update the log rather than defending the original tag.
 4. For each moment worked, whether user-picked or user-requested a scan:
    - Quote a short phrase directly from the text, a line or fragment, not
      a paragraph or page. Only quote text that was pasted by the user or

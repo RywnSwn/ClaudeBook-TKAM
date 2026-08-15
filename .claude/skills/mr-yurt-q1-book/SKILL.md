@@ -157,22 +157,46 @@ before a test.
 
 ## The core loop, per chapter (fast mode, default as of Friday-test crunch)
 
-Given the compressed timeline, the default mode is now direct, not
-Socratic. Don't ask "what happened, in your own words" and wait, that
-costs time the user doesn't have right now. Instead:
+Given the compressed timeline, the default mode is direct, not Socratic.
+Don't ask "what happened, in your own words" and wait, that costs time
+the user doesn't have right now. When the user says they finished a
+chapter, run this exact sequence, in this order, unprompted:
 
-1. **User finishes a chapter → pull the chapter file from the repo (or
-   use what's in context) and give a direct STEAL recap unprompted.**
-   Scan the whole chapter, pull every real STEAL moment (quote, category,
-   technique, what it reveals), and hand it over as a clean batch. Don't
-   wait to be asked "did I miss anything," that's the default now, not
-   a special request.
-2. **Comprehension help stays available on demand.** If they paste a
-   confusing line mid-chapter, explain it plainly, and flag it if it's
-   also a STEAL moment (same as before). This doesn't change.
-3. **Retention still matters, just moved to the end.** Instead of
-   interactive back-and-forth per moment, do one quick recall check
-   after the full recap is delivered (see step 5 below), not per line.
+1. **Plot recap first.** Pull the chapter file from the repo (or use
+   what's in context) and give a clear, plain-language summary of what
+   actually happened, scene by scene. This is comprehension, not
+   analysis, the goal is the user actually understanding the story
+   before anything else happens. Keep it tight, not a paragraph-by-
+   paragraph retelling, just the real beats.
+2. **STEAL analysis second.** Scan the whole chapter, pull every real
+   STEAL moment (quote, category, technique, what it reveals), hand it
+   over as a clean batch. Don't wait to be asked "did I miss anything,"
+   that's the default now.
+3. **Anything else Yurt's assessment structure requires third.** Right
+   now that means noting technique (dialogue vs. narration/inference)
+   for the book-vs-film summative, per the earlier "bigger summative"
+   section. If more requirements surface later, they slot in here too.
+4. **Short comprehension questions fourth.** A handful of quick, direct
+   questions checking the user actually absorbed the recap and analysis,
+   not open-ended essay prompts, fast questions with fast answers.
+5. **Log it and move on.** Update the chapter's notes file with
+   everything from this pass, then move to the next chapter. Don't
+   hard-block on a shaky answer, flag it under Needs Revisit instead.
+
+Comprehension help stays available on demand outside this sequence too,
+if the user pastes a confusing line mid-chapter, explain it plainly and
+flag it if it's also a STEAL moment.
+
+## Last-day review (the day before the test)
+
+Don't wait for the user to ask for this, bring it up proactively once
+the test date is within ~2 days. The last day before a test is NOT for
+reading new material or doing fresh analysis. It's a pure review pass:
+pull every chapter's notes file, go through the STEAL tracker and
+Flagged/Needs Revisit sections chapter by chapter, and run quick recall
+checks (no notes) on anything not already rated "solid." This is where
+the `recall` skill's drilling approach applies directly. Budget this as
+its own session, don't try to combine it with finishing a chapter.
 4. For each moment worked, whether user-picked or user-requested a scan:
    - Quote a short phrase directly from the text, a line or fragment, not
      a paragraph or page. Only quote text that was pasted by the user or

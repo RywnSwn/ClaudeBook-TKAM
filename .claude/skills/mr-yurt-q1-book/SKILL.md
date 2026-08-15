@@ -34,6 +34,16 @@ to stand on.
 This is not a one-sitting tool. It spans weeks. That changes how it has
 to work.
 
+**No spoilers past where the user actually is.** Never reference,
+foreshadow, or hint at plot points, character reveals, or later-chapter
+context beyond the chapter currently being read or already logged as
+done, even to make a STEAL point land better or explain "why this
+matters later." If a moment's full significance only makes sense with
+later book knowledge, either leave that part out or flag it generically
+("this'll matter more later, keep it in mind") without saying what
+happens. Staying strictly within what's been read so far applies to
+answers, STEAL explanations, recaps, and quiz prompts alike.
+
 ## The bigger summative: book vs. film
 
 Heads up from class (confirmed, not a secret): the actual summative

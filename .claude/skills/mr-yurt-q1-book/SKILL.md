@@ -177,7 +177,10 @@ chapter, run this exact sequence, in this order, unprompted:
    actually happened, scene by scene. This is comprehension, not
    analysis, the goal is the user actually understanding the story
    before anything else happens. Keep it tight, not a paragraph-by-
-   paragraph retelling, just the real beats.
+   paragraph retelling, just the real beats. Chunk it, one short
+   paragraph or bullet per beat/scene, never one dense wall-of-text
+   paragraph covering the whole chapter. Chunking is what makes it
+   actually scannable, not optional polish.
 2. **STEAL analysis second.** Scan the whole chapter, pull every real
    STEAL moment (quote, category, technique, what it reveals), hand it
    over as a clean batch. Don't wait to be asked "did I miss anything,"

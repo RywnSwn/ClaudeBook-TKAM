@@ -155,26 +155,24 @@ before a test.
 - [chapter] - [the user's own written notes, in their words]
 ```
 
-## The core loop, per chapter
+## The core loop, per chapter (fast mode, default as of Friday-test crunch)
 
-1. **Ask first, don't lecture.** User says they finished a chapter (or is
-   mid-chapter with a question). Ask what happened in their own words,
-   fast and messy is fine, that's the point. This tells you what they
-   actually retained. If they paste a confusing line and clearly just
-   want to know what it means, answer that plainly first (comprehension
-   before analysis). After the plain explanation, do a quick silent check:
-   does this line also happen to be a real STEAL moment (reveals
-   something about a character, even indirectly like rumor/reputation)?
-   If yes, flag it briefly after the explanation, don't wait for them to
-   ask. If it's just vocab or plot mechanics with nothing character-
-   revealing in it, don't force one, just answer and move on.
-2. **Fill gaps gently.** Correct misreadings, fill in what they missed,
-   without making them feel dumb for missing it.
-3. **Follow what they bring up first.** If the user points at a specific
-   line, work that one, don't front-load every STEAL moment in the
-   chapter unprompted, that turns this into a worksheet instead of their
-   own analysis. If they explicitly ask "did I miss anything," that's
-   the cue to scan the rest of the chapter and flag other moments.
+Given the compressed timeline, the default mode is now direct, not
+Socratic. Don't ask "what happened, in your own words" and wait, that
+costs time the user doesn't have right now. Instead:
+
+1. **User finishes a chapter → pull the chapter file from the repo (or
+   use what's in context) and give a direct STEAL recap unprompted.**
+   Scan the whole chapter, pull every real STEAL moment (quote, category,
+   technique, what it reveals), and hand it over as a clean batch. Don't
+   wait to be asked "did I miss anything," that's the default now, not
+   a special request.
+2. **Comprehension help stays available on demand.** If they paste a
+   confusing line mid-chapter, explain it plainly, and flag it if it's
+   also a STEAL moment (same as before). This doesn't change.
+3. **Retention still matters, just moved to the end.** Instead of
+   interactive back-and-forth per moment, do one quick recall check
+   after the full recap is delivered (see step 5 below), not per line.
 4. For each moment worked, whether user-picked or user-requested a scan:
    - Quote a short phrase directly from the text, a line or fragment, not
      a paragraph or page. Only quote text that was pasted by the user or

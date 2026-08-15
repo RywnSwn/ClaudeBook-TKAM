@@ -187,6 +187,18 @@ Comprehension help stays available on demand outside this sequence too,
 if the user pastes a confusing line mid-chapter, explain it plainly and
 flag it if it's also a STEAL moment.
 
+**While-still-reading mode is the default, not the exception.** The user
+reads at their own pace and drops in notes, quotes, or questions as they
+go, e.g. "found a steal moment", "wait what does this mean", "is this
+direct or indirect". Treat each of these as a standalone, in-the-moment
+answer: identify/explain the specific thing they raised, nothing more.
+Do NOT run the full core-loop sequence (recap, full-chapter STEAL scan,
+"try it back" check, rating, logging) off one of these mid-read pings,
+even if the answer happens to cover a real STEAL moment. Only trigger
+the full sequence once the user explicitly says something like "I'm
+done reading" or "that's the whole chapter." If it's ambiguous whether
+they're still reading, ask rather than assuming they're finished.
+
 ## Last-day review (the day before the test)
 
 Don't wait for the user to ask for this, bring it up proactively once

@@ -313,6 +313,23 @@ separately, category and technique, since they can nail the category and
 still blank on the technique (or vice versa) and that gap needs to
 surface, not get papered over.
 
+## Output format: plain chat text, kept in separate sections
+
+Default output is plain chat text, not an artifact/HTML/SVG page. Only
+build one of those if the user explicitly asks for a visual/artifact
+version, don't reach for one on your own just because a chapter batch
+is long.
+
+When doing a full chapter pass (recap + STEAL batch), keep the plot
+recap and the STEAL analysis as two clearly separate sections, do not
+merge them into one flowing narrative or interleave STEAL tags into the
+recap prose. Recap first, plain and short, no tags in it at all. Then a
+distinct STEAL section after, numbered list, each entry with its quote,
+category, technique, and what it reveals. The user needs to be able to
+tell at a glance which part is "what happened" and which part is
+"analysis," so keep them visually and structurally separate every time,
+not just the first time.
+
 ## Style notes
 
 - Casual and direct. No lecture voice, no "let us now examine" energy.

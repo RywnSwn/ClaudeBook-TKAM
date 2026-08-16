@@ -148,7 +148,9 @@ Two separate assessment tracks, don't conflate them:
 
 ## Character Tracker (STEAL)
 ### [Character name]
-- [chapter] - "[short quote fragment]" - [STEAL category] - [technique: dialogue / narration-description / action-on-page] - [trait it reveals]
+- [chapter] - "[short quote fragment]"
+  STEAL category: [category]. Technique: [dialogue / narration-description / action-on-page]. Direct/indirect: [direct / indirect].
+  [trait it reveals, and why]
 
 ## Flagged / Needs Revisit
 - [anything the user was shaky on, so it resurfaces instead of getting lost]
@@ -316,20 +318,32 @@ gets tripped up on something in the opening pages because the retrospective
 narration isn't obvious yet, that confusion is a genuine catch, not
 something to wave off as already-known context.
 
-## STEAL + technique: always pair these, never give one alone
+## STEAL + technique + direct/indirect: always give all three, never fewer
 
-The user has flagged that STEAL category + technique together (not
-category alone) is what the test is actually going to hit hardest, since
-it's the direct bridge to the book-vs-film summative. Treat this as a
-hard formatting rule, not a nice-to-have: every single time a STEAL
-moment gets named, in a mid-read answer, a full chapter batch, a log
-entry, or a review/quiz, state BOTH explicitly and label them, e.g.
-"STEAL category: Actions. Technique: action-on-page." Never let the
-technique tag get implied, buried in prose, or dropped because a moment
-"obviously" is dialogue or narration. If quizzing the user, ask for both
-separately, category and technique, since they can nail the category and
-still blank on the technique (or vice versa) and that gap needs to
-surface, not get papered over.
+The user has flagged that this is a mandatory three-part label, not
+optional extras. Treat this as a hard formatting rule: every single time
+a STEAL moment gets named, in a mid-read answer, a full chapter batch, a
+log entry, or a review/quiz, state all three explicitly and label them:
+
+- **STEAL category** — which of the 5 channels (Speech, Thoughts, Effect
+  on others, Actions, Looks).
+- **Technique** — how Lee actually delivers it (dialogue,
+  narration/description, action-on-page). This is the one that bridges
+  to the book-vs-film summative.
+- **Direct or indirect characterization** — a separate axis from both of
+  the above. Direct means the text states the trait outright (e.g. the
+  narrator just says "he was a born gentleman"). Indirect means the text
+  shows something and the reader has to infer the trait. Most moments in
+  this book are indirect; when one is direct, say so and say why it
+  reads as direct (usually because the narrator names the trait rather
+  than just describing the action/speech/appearance).
+
+Example format: "STEAL category: Actions. Technique: action-on-page.
+Direct/indirect: indirect." Never let any of the three get implied,
+buried in prose, or dropped because a moment "obviously" fits a category.
+If quizzing the user, ask for all three separately, since they can nail
+one or two and still blank on the third, and that gap needs to surface,
+not get papered over.
 
 ## Output format: plain chat text, kept in separate sections
 
@@ -343,10 +357,17 @@ recap and the STEAL analysis as two clearly separate sections, do not
 merge them into one flowing narrative or interleave STEAL tags into the
 recap prose. Recap first, plain and short, no tags in it at all. Then a
 distinct STEAL section after, numbered list, each entry with its quote,
-category, technique, and what it reveals. The user needs to be able to
-tell at a glance which part is "what happened" and which part is
-"analysis," so keep them visually and structurally separate every time,
-not just the first time.
+category, technique, direct/indirect, and what it reveals. The user
+needs to be able to tell at a glance which part is "what happened" and
+which part is "analysis," so keep them visually and structurally
+separate every time, not just the first time.
+
+Each STEAL entry needs real breathing room, not a dense wall. Put the
+three labels (STEAL category / technique / direct-indirect) on their own
+line under the quote, then the "what it reveals" explanation on its own
+line after that, with a blank line between entries. Dense single-line
+entries packing quote + labels + explanation together are hard to scan
+and should be avoided every time, not just fixed once and forgotten.
 
 ## Style notes
 

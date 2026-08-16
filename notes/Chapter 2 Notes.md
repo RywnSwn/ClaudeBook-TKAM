@@ -16,23 +16,42 @@ DONE (confidence: mostly solid, two items flagged below need a revisit before th
 
 ## Character Tracker (STEAL)
 ### Miss Caroline Fisher
-- Ch 2 - "looked and smelled like a peppermint drop" - Looks - technique: narration (direct) - young, polished, almost too storybook-neat for a room of "ragged, denim-shirted and floursack-skirted" farm kids; sets up the mismatch that plays out the rest of the chapter
-- Ch 2 - "tell your father not to teach you any more" - Speech - technique: dialogue - more loyal to her new college method than curious about the actual kid in front of her
-- Ch 2 - "Here's a quarter... Go and eat downtown today" - Speech + Actions - technique: dialogue + action-on-page - well-meaning but clueless about Maycomb's unwritten social rules (the Cunninghams' pride)
-- Ch 2 - "patted the palm of my hand with a ruler, then made me stand in the corner until noon" - Actions - technique: action-on-page - rigid, punishes fast, in over her head; indirect because Lee just shows the action and lets the reader conclude the trait, never states it outright
-- Ch 2 - "sink down into her chair and bury her head in her arms" - Actions (unwatched, no audience) - technique: action-on-page - genuinely overwhelmed on day one, not a villain; Scout even says she'd have felt sorry for her if she'd been friendlier
+- Ch 2 - "looked and smelled like a peppermint drop"
+  STEAL category: Looks. Technique: narration/description. Direct/indirect: direct (narrator states the impression outright).
+  Young, polished, almost too storybook-neat for a room of "ragged, denim-shirted and floursack-skirted" farm kids; sets up the mismatch that plays out the rest of the chapter.
+
+- Ch 2 - "tell your father not to teach you any more"
+  STEAL category: Speech. Technique: dialogue. Direct/indirect: indirect.
+  More loyal to her new college method than curious about the actual kid in front of her.
+
+- Ch 2 - "Here's a quarter... Go and eat downtown today"
+  STEAL category: Speech + Actions. Technique: dialogue + action-on-page. Direct/indirect: indirect.
+  Well-meaning but clueless about Maycomb's unwritten social rules (the Cunninghams' pride).
+
+- Ch 2 - "patted the palm of my hand with a ruler, then made me stand in the corner until noon"
+  STEAL category: Actions. Technique: action-on-page. Direct/indirect: indirect.
+  Rigid, punishes fast, in over her head; indirect because Lee just shows the action and lets the reader conclude the trait, never states it outright.
+
+- Ch 2 - "sink down into her chair and bury her head in her arms" (unwatched, no audience)
+  STEAL category: Actions. Technique: action-on-page. Direct/indirect: indirect.
+  Genuinely overwhelmed on day one, not a villain; Scout even says she'd have felt sorry for her if she'd been friendlier.
 
 ### Miss Blount (minor, one scene)
-- Ch 2 - "If I hear another sound from this room I'll burn up everybody in it" - Effect on others (contrast with Miss Caroline) - technique: narration + dialogue - an experienced local teacher controls the room instantly, which makes Miss Caroline's struggle look worse by comparison
+- Ch 2 - "If I hear another sound from this room I'll burn up everybody in it" (contrast with Miss Caroline)
+  STEAL category: Effect on others. Technique: narration + dialogue. Direct/indirect: indirect.
+  An experienced local teacher controls the room instantly, which makes Miss Caroline's struggle look worse by comparison.
 
 ### Scout / Jean Louise (as narrator)
-- Ch 2 - "Jean Louise" is Scout's formal name (teachers use it), not a separate character - comprehension note, not a STEAL moment itself
-- Ch 2 - "The Cunninghams never took anything they can't pay back—no church baskets and no scrip stamps... They don't have much, but they get along on it." - Speech - technique: dialogue - shows Scout genuinely understands Maycomb's unwritten social codes and is trying to help Miss Caroline avoid a mistake, not showing off; sets up the same Cunningham pride that plays out again in Ch 3 (Walter's hesitation, the syrup)
+- Ch 2 - "Jean Louise" is Scout's formal name (teachers use it), not a separate character - comprehension note, not a STEAL moment itself.
+
+- Ch 2 - "The Cunninghams never took anything they can't pay back—no church baskets and no scrip stamps... They don't have much, but they get along on it."
+  STEAL category: Speech. Technique: dialogue. Direct/indirect: indirect.
+  Shows Scout genuinely understands Maycomb's unwritten social codes and is trying to help Miss Caroline avoid a mistake, not showing off; sets up the same Cunningham pride that plays out again in Ch 3 (Walter's hesitation, the syrup).
 
 ## Flagged / Needs Revisit
 - STILL OWED from Chapter 1: explain-back check on the Ch 1 STEAL tracker (Jem/Boo/Atticus) never happened, was deferred at end of the 8/13 session for reading fatigue and got skipped again at the start of this session. Needs to happen before the next test, not keep sliding.
 - Actions vs. Looks mixup: user tagged the ruler/corner moment as Looks on first try, corrected to Actions. Also didn't recall the "peppermint drop" Looks moment at all when asked cold. Both need a quick recall check next session before assuming solid.
-- Direct vs. indirect is a separate axis from STEAL (STEAL = which of the 5 channels; direct/indirect = whether it's told outright or shown/inferred), explained this session, worth confirming user still has it next time.
+- Direct vs. indirect is a separate axis from STEAL (STEAL = which of the 5 channels; direct/indirect = whether it's told outright or shown/inferred). Re-explained on 8/16 when user asked whether this counted as "technique" (it doesn't, it's a third, separate label). Now a mandatory third tag on every STEAL entry going forward, per skill update. Resolved for now, re-check cold on a future review just in case.
 
 ## Notes
 

@@ -18,16 +18,31 @@ DONE (confidence: solid, rough start but comprehension and STEAL-spotting improv
 
 ## Character Tracker (STEAL)
 ### Jem
-- Ch 1 - "Jem told me to hush" (after Scout pressed Dill about his absent father) - Effect on others / Actions - technique: dialogue + action-on-page - reveals Jem reads the room fast and protects people he's decided are alright ("studied and found acceptable")
-- Ch 1 - "folks in Meridian certainly weren't as afraid as the folks in Maycomb" (Dill's taunt) - Speech / Effect on others - technique: dialogue - stronger evidence than "never declined a dare": shows Jem's real trigger for the Radley dare is pride/peer pressure about being called a coward, not thrill-seeking
+- Ch 1 - "Jem told me to hush" (after Scout pressed Dill about his absent father)
+  STEAL category: Effect on others / Actions. Technique: dialogue + action-on-page. Direct/indirect: indirect.
+  Reveals Jem reads the room fast and protects people he's decided are alright ("studied and found acceptable").
+
+- Ch 1 - "folks in Meridian certainly weren't as afraid as the folks in Maycomb" (Dill's taunt)
+  STEAL category: Speech / Effect on others. Technique: dialogue. Direct/indirect: indirect.
+  Stronger evidence than "never declined a dare": shows Jem's real trigger for the Radley dare is pride/peer pressure about being called a coward, not thrill-seeking.
 
 ### Boo Radley / the Radley Place (rumor-driven characterization)
-- Ch 1 - "it was because he had breathed on them" (azaleas dying blamed on Boo) - Effect on others - technique: narration/reported gossip - shows town's fear/blame culture, not anything Boo actually did
-- Ch 1 - chickens/pets mutilated, real culprit was Crazy Addie, but "people still looked at the Radley Place, unwilling to discard their initial suspicions" - Effect on others - technique: narration - suspicion outlives facts even after being disproven; likely connects to bigger prejudice themes later in the book
-- Ch 1 - Black residents wouldn't pass the Radley Place at night, crossed the street and whistled - Effect on others - technique: narration - shows fear is town-wide, not just kids; also an early, subtle signal that race matters a lot in this book
+- Ch 1 - "it was because he had breathed on them" (azaleas dying blamed on Boo)
+  STEAL category: Effect on others. Technique: narration/reported gossip. Direct/indirect: indirect.
+  Shows town's fear/blame culture, not anything Boo actually did.
+
+- Ch 1 - chickens/pets mutilated, real culprit was Crazy Addie, but "people still looked at the Radley Place, unwilling to discard their initial suspicions"
+  STEAL category: Effect on others. Technique: narration. Direct/indirect: indirect.
+  Suspicion outlives facts even after being disproven; likely connects to bigger prejudice themes later in the book.
+
+- Ch 1 - Black residents wouldn't pass the Radley Place at night, crossed the street and whistled
+  STEAL category: Effect on others. Technique: narration. Direct/indirect: indirect.
+  Shows fear is town-wide, not just kids; also an early, subtle signal that race matters a lot in this book.
 
 ### Atticus
-- Ch 1 - refuses to talk about the Radleys, tells Jem to "mind his own business and let the Radleys mind theirs" - Speech / Actions - technique: dialogue - shows Atticus respects privacy and won't gossip, contrasts directly with Miss Stephanie Crawford
+- Ch 1 - refuses to talk about the Radleys, tells Jem to "mind his own business and let the Radleys mind theirs"
+  STEAL category: Speech / Actions. Technique: dialogue. Direct/indirect: indirect.
+  Shows Atticus respects privacy and won't gossip, contrasts directly with Miss Stephanie Crawford.
 
 ## Flagged / Needs Revisit
 - STILL OWED: cold recall check on the STEAL tracker below (Jem/Boo/Atticus). Attempted twice now: 8/13 (too reading-fatigued to recall anything) and 8/15 (teach pass done, walked through the reasoning for all 5 moments fresh, but user was done for the day before the cold recall quiz happened). Teach-side is solid groundwork now, just needs the actual no-notes recall attempt. Try again at the START of next session, before anything else, third time should be the one.

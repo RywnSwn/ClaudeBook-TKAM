@@ -188,9 +188,19 @@ chapter, run this exact sequence, in this order, unprompted:
    etc.), translate it inline right there rather than dropping the
    original term unexplained and leaving it for a follow-up question.
 2. **STEAL analysis second.** Scan the whole chapter, pull every real
-   STEAL moment (quote, category, technique, what it reveals), hand it
-   over as a clean batch. Don't wait to be asked "did I miss anything,"
-   that's the default now.
+   STEAL moment, hand it over as a clean batch. Don't wait to be asked
+   "did I miss anything," that's the default now. Every entry needs all
+   of the following, every time, not just the quote and labels:
+   - the quote
+   - one short line of scene background (what's happening around it,
+     enough to place the moment without rereading the chapter)
+   - the three labels (STEAL category, technique, direct/indirect)
+   - what it reveals, AND a brief reason why the phrasing/action actually
+     does that work (word choice, what's implied, what's left unsaid)
+   Keep the background and the "why" each to a sentence, not a paragraph,
+   this is meant to be quick to read, not padded. But don't drop them
+   either, a label with no scene context or no reasoning is an
+   incomplete entry.
 3. **Anything else Yurt's assessment structure requires third.** Right
    now that means noting technique (dialogue vs. narration/inference)
    for the book-vs-film summative, per the earlier "bigger summative"

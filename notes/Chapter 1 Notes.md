@@ -14,6 +14,7 @@ DONE (confidence: solid, rough start but comprehension and STEAL-spotting improv
 
 ## Session History
 - 2026-08-13 - Chapter 1 - finished the full chapter, worked through it in two modes: stop-and-ask for the dense first half, then read-straight-through-and-recap for the back half once comprehension picked up
+- 2026-08-15 - Chapter 1 (revisit attempt) - ran the teach half of the owed teach-then-recall pass (Jem x2, Boo x2, Atticus), reasoning walkthrough for each; user was done for the day before the cold recall quiz, so recall is still outstanding
 
 ## Character Tracker (STEAL)
 ### Jem
@@ -29,7 +30,7 @@ DONE (confidence: solid, rough start but comprehension and STEAL-spotting improv
 - Ch 1 - refuses to talk about the Radleys, tells Jem to "mind his own business and let the Radleys mind theirs" - Speech / Actions - technique: dialogue - shows Atticus respects privacy and won't gossip, contrasts directly with Miss Stephanie Crawford
 
 ## Flagged / Needs Revisit
-- OWED: explain-back check on the STEAL tracker below (Jem/Boo/Atticus). Started end of session on 8/13 but user was too reading-fatigued to actually recall anything, recap wasn't landing. Do this fresh at the START of next session, before moving on to Chapter 2, retrieval works way better rested than forced.
+- STILL OWED: cold recall check on the STEAL tracker below (Jem/Boo/Atticus). Attempted twice now: 8/13 (too reading-fatigued to recall anything) and 8/15 (teach pass done, walked through the reasoning for all 5 moments fresh, but user was done for the day before the cold recall quiz happened). Teach-side is solid groundwork now, just needs the actual no-notes recall attempt. Try again at the START of next session, before anything else, third time should be the one.
 - The scissors-stabbing story (Boo stabbing his father) is told entirely through Miss Stephanie Crawford, "a neighborhood scold" known for gossip. Not confirmed as fact by the narrative itself. Keep treating it as unreliable rumor, not established truth, until/unless the book confirms it later.
 - General note: chapter 1 is unusually dense with background/exposition (family history, town history, Radley backstory) before the actual present-day plot (the dare) gets going. If chapter 2 also drags at first, that's normal, not a comprehension problem.
 

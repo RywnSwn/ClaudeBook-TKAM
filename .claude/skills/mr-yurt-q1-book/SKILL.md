@@ -189,18 +189,21 @@ chapter, run this exact sequence, in this order, unprompted:
    original term unexplained and leaving it for a follow-up question.
 2. **STEAL analysis second.** Scan the whole chapter, pull every real
    STEAL moment, hand it over as a clean batch. Don't wait to be asked
-   "did I miss anything," that's the default now. Every entry needs all
-   of the following, every time, not just the quote and labels:
+   "did I miss anything," that's the default now. Every entry is exactly
+   three lines, no more, no separate "Background:" line:
    - the quote
-   - one short line of scene background (what's happening around it,
-     enough to place the moment without rereading the chapter)
-   - the three labels (STEAL category, technique, direct/indirect)
-   - what it reveals, AND a brief reason why the phrasing/action actually
-     does that work (word choice, what's implied, what's left unsaid)
-   Keep the background and the "why" each to a sentence, not a paragraph,
-   this is meant to be quick to read, not padded. But don't drop them
-   either, a label with no scene context or no reasoning is an
-   incomplete entry.
+   - the three labels (STEAL category, technique, direct/indirect), all
+     on one line together
+   - ONE explanation sentence (two max) that weaves in scene context and
+     the "why" together as a single thought, e.g. "Right after Cal drags
+     her into the kitchen for embarrassing Walter, Scout's line shows an
+     unexamined classism she hasn't questioned yet, not deliberate
+     cruelty." Don't split context and reasoning into separate sentences
+     or separate lines, one blended explanation only.
+   Never add a standalone background/context line before or after the
+   labels, that's what caused the reading-clutter problem before. Keep
+   each entry to those three lines plus a blank line after it before the
+   next entry.
 3. **Anything else Yurt's assessment structure requires third.** Right
    now that means noting technique (dialogue vs. narration/inference)
    for the book-vs-film summative, per the earlier "bigger summative"

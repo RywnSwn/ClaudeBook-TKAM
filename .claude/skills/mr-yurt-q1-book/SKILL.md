@@ -34,6 +34,16 @@ to stand on.
 This is not a one-sitting tool. It spans weeks. That changes how it has
 to work.
 
+**No spoilers past where the user actually is.** Never reference,
+foreshadow, or hint at plot points, character reveals, or later-chapter
+context beyond the chapter currently being read or already logged as
+done, even to make a STEAL point land better or explain "why this
+matters later." If a moment's full significance only makes sense with
+later book knowledge, either leave that part out or flag it generically
+("this'll matter more later, keep it in mind") without saying what
+happens. Staying strictly within what's been read so far applies to
+answers, STEAL explanations, recaps, and quiz prompts alike.
+
 ## The bigger summative: book vs. film
 
 Heads up from class (confirmed, not a secret): the actual summative
@@ -167,7 +177,10 @@ chapter, run this exact sequence, in this order, unprompted:
    actually happened, scene by scene. This is comprehension, not
    analysis, the goal is the user actually understanding the story
    before anything else happens. Keep it tight, not a paragraph-by-
-   paragraph retelling, just the real beats.
+   paragraph retelling, just the real beats. Chunk it, one short
+   paragraph or bullet per beat/scene, never one dense wall-of-text
+   paragraph covering the whole chapter. Chunking is what makes it
+   actually scannable, not optional polish.
 2. **STEAL analysis second.** Scan the whole chapter, pull every real
    STEAL moment (quote, category, technique, what it reveals), hand it
    over as a clean batch. Don't wait to be asked "did I miss anything,"
@@ -176,9 +189,20 @@ chapter, run this exact sequence, in this order, unprompted:
    now that means noting technique (dialogue vs. narration/inference)
    for the book-vs-film summative, per the earlier "bigger summative"
    section. If more requirements surface later, they slot in here too.
-4. **Short comprehension questions fourth.** A handful of quick, direct
-   questions checking the user actually absorbed the recap and analysis,
-   not open-ended essay prompts, fast questions with fast answers.
+4. **Short comprehension questions fourth.** Two parts, always both,
+   since the actual test hits STEAL + technique hardest, plot recall
+   alone isn't enough prep:
+   - A handful of quick plot-recall questions checking the user actually
+     absorbed the recap, fast questions with fast answers, not
+     open-ended essay prompts.
+   - At least 3 questions targeted at STEAL + technique specifically,
+     e.g. "what category is X moment and why," "what technique does Lee
+     use for Y," "why is this indirect and not direct." These aren't
+     optional extras tacked onto the plot questions, they're the part
+     that maps to the actual test format, treat them as equally
+     mandatory. This same STEAL+technique-targeted question style
+     applies to quizzing generally, not just this end-of-chapter step,
+     including the last-day review's cold random prompt below.
 5. **Log it and move on.** Update the chapter's notes file with
    everything from this pass, then move to the next chapter. Don't
    hard-block on a shaky answer, flag it under Needs Revisit instead.
@@ -186,6 +210,29 @@ chapter, run this exact sequence, in this order, unprompted:
 Comprehension help stays available on demand outside this sequence too,
 if the user pastes a confusing line mid-chapter, explain it plainly and
 flag it if it's also a STEAL moment.
+
+**While-still-reading mode is the default, not the exception.** The user
+reads at their own pace and drops in notes, quotes, or questions as they
+go, e.g. "found a steal moment", "wait what does this mean", "is this
+direct or indirect". Treat each of these as a standalone, in-the-moment
+answer: identify/explain the specific thing they raised, nothing more.
+Do NOT run the full core-loop sequence (recap, full-chapter STEAL scan,
+"try it back" check, rating, logging) off one of these mid-read pings,
+even if the answer happens to cover a real STEAL moment. Only trigger
+the full sequence once the user explicitly says something like "I'm
+done reading" or "that's the whole chapter." If it's ambiguous whether
+they're still reading, ask rather than assuming they're finished.
+
+**Not everything is a STEAL moment, and that's fine.** A plain
+comprehension question ("who is this person," "what does this word
+mean," "wait I'm confused") gets a plain answer. Only tag something as
+STEAL when it's genuinely doing character work, revealing a trait
+through what's said/thought/done/how others react/how they look, not
+just because there's nearby text to hang a category on. That said,
+don't swing the other way and get stingy or second-guess a moment that
+really is solid just to avoid over-tagging, a good catch is still a good
+catch. The bar is "does this line actually reveal character," not "did
+I already use a STEAL tag recently."
 
 ## Last-day review (the day before the test)
 
@@ -197,6 +244,18 @@ Flagged/Needs Revisit sections chapter by chapter, and run quick recall
 checks (no notes) on anything not already rated "solid." This is where
 the `recall` skill's drilling approach applies directly. Budget this as
 its own session, don't try to combine it with finishing a chapter.
+
+Partway through this review, throw in a cold, random, harder prompt,
+not just walking the tracker top to bottom. Pick a moment already
+logged and ask the user to answer it like it's an actual test question,
+academic reasoning (explain category, technique, and why it reveals
+what it reveals), but grammar and polish don't matter here, it's just
+the two of you, so don't dock them for phrasing. Expect they might
+genuinely struggle with these, that's the point of a cold random prompt,
+and stay open to them pushing back with a detail or intel from the
+actual reading that changes the read on a moment. If they've got a
+better or more accurate catch than what's logged, take it seriously and
+update the log rather than defending the original tag.
 4. For each moment worked, whether user-picked or user-requested a scan:
    - Quote a short phrase directly from the text, a line or fragment, not
      a paragraph or page. Only quote text that was pasted by the user or
@@ -252,6 +311,38 @@ for Scout-as-narrator, not just scene-level character work. If the user
 gets tripped up on something in the opening pages because the retrospective
 narration isn't obvious yet, that confusion is a genuine catch, not
 something to wave off as already-known context.
+
+## STEAL + technique: always pair these, never give one alone
+
+The user has flagged that STEAL category + technique together (not
+category alone) is what the test is actually going to hit hardest, since
+it's the direct bridge to the book-vs-film summative. Treat this as a
+hard formatting rule, not a nice-to-have: every single time a STEAL
+moment gets named, in a mid-read answer, a full chapter batch, a log
+entry, or a review/quiz, state BOTH explicitly and label them, e.g.
+"STEAL category: Actions. Technique: action-on-page." Never let the
+technique tag get implied, buried in prose, or dropped because a moment
+"obviously" is dialogue or narration. If quizzing the user, ask for both
+separately, category and technique, since they can nail the category and
+still blank on the technique (or vice versa) and that gap needs to
+surface, not get papered over.
+
+## Output format: plain chat text, kept in separate sections
+
+Default output is plain chat text, not an artifact/HTML/SVG page. Only
+build one of those if the user explicitly asks for a visual/artifact
+version, don't reach for one on your own just because a chapter batch
+is long.
+
+When doing a full chapter pass (recap + STEAL batch), keep the plot
+recap and the STEAL analysis as two clearly separate sections, do not
+merge them into one flowing narrative or interleave STEAL tags into the
+recap prose. Recap first, plain and short, no tags in it at all. Then a
+distinct STEAL section after, numbered list, each entry with its quote,
+category, technique, and what it reveals. The user needs to be able to
+tell at a glance which part is "what happened" and which part is
+"analysis," so keep them visually and structurally separate every time,
+not just the first time.
 
 ## Style notes
 

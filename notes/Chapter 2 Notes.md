@@ -27,6 +27,7 @@ DONE (confidence: mostly solid, two items flagged below need a revisit before th
 
 ### Scout / Jean Louise (as narrator)
 - Ch 2 - "Jean Louise" is Scout's formal name (teachers use it), not a separate character - comprehension note, not a STEAL moment itself
+- Ch 2 - "The Cunninghams never took anything they can't pay back—no church baskets and no scrip stamps... They don't have much, but they get along on it." - Speech - technique: dialogue - shows Scout genuinely understands Maycomb's unwritten social codes and is trying to help Miss Caroline avoid a mistake, not showing off; sets up the same Cunningham pride that plays out again in Ch 3 (Walter's hesitation, the syrup)
 
 ## Flagged / Needs Revisit
 - STILL OWED from Chapter 1: explain-back check on the Ch 1 STEAL tracker (Jem/Boo/Atticus) never happened, was deferred at end of the 8/13 session for reading fatigue and got skipped again at the start of this session. Needs to happen before the next test, not keep sliding.

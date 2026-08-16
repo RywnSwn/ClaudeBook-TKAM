@@ -180,7 +180,11 @@ chapter, run this exact sequence, in this order, unprompted:
    paragraph retelling, just the real beats. Chunk it, one short
    paragraph or bullet per beat/scene, never one dense wall-of-text
    paragraph covering the whole chapter. Chunking is what makes it
-   actually scannable, not optional polish.
+   actually scannable, not optional polish. Write the recap in plain
+   modern English, not the book's period dialect/slang. If a recap beat
+   needs to reference a dialect word or old reference (a "hant," "et,"
+   etc.), translate it inline right there rather than dropping the
+   original term unexplained and leaving it for a follow-up question.
 2. **STEAL analysis second.** Scan the whole chapter, pull every real
    STEAL moment (quote, category, technique, what it reveals), hand it
    over as a clean batch. Don't wait to be asked "did I miss anything,"

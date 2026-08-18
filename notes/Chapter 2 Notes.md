@@ -4,8 +4,8 @@
 DONE (confidence: mostly solid, two items flagged below need a revisit before the test)
 
 ## Next Chapter Test
-- Date: unknown (rolling tests roughly every 2 weeks, not yet announced)
-- Covers: TBD, likely chapters 1-2 minimum once announced
+- Date: Tuesday, 2026-08-25 (confirmed 8/18)
+- Covers: at least chapters 1-4, possibly more depending on what's finished by then
 
 ## End-of-Quarter Summative
 - Date: unknown
@@ -49,7 +49,7 @@ DONE (confidence: mostly solid, two items flagged below need a revisit before th
   Shows Scout genuinely understands Maycomb's unwritten social codes and is trying to help Miss Caroline avoid a mistake, not showing off; sets up the same Cunningham pride that plays out again in Ch 3 (Walter's hesitation, the syrup).
 
 ## Flagged / Needs Revisit
-- STILL OWED from Chapter 1: explain-back check on the Ch 1 STEAL tracker (Jem/Boo/Atticus) never happened, was deferred at end of the 8/13 session for reading fatigue and got skipped again at the start of this session. Needs to happen before the next test, not keep sliding.
+- STILL OWED from Chapter 1: explain-back check on the Ch 1 STEAL tracker (Jem/Boo/Atticus) never happened, was deferred at end of the 8/13 session for reading fatigue and got skipped again at the start of this session. Needs to happen before the next test, not keep sliding. Test is now confirmed for 2026-08-25.
 - Actions vs. Looks mixup: user tagged the ruler/corner moment as Looks on first try, corrected to Actions. Also didn't recall the "peppermint drop" Looks moment at all when asked cold. Both need a quick recall check next session before assuming solid.
 - Direct vs. indirect is a separate axis from STEAL (STEAL = which of the 5 channels; direct/indirect = whether it's told outright or shown/inferred). Re-explained on 8/16 when user asked whether this counted as "technique" (it doesn't, it's a third, separate label). Now a mandatory third tag on every STEAL entry going forward, per skill update. Resolved for now, re-check cold on a future review just in case.
 

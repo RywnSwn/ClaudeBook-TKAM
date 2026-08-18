@@ -4,8 +4,8 @@
 DONE (confidence: solid, rough start but comprehension and STEAL-spotting improved a lot by the end of the chapter)
 
 ## Next Chapter Test
-- Date: unknown (rolling tests roughly every 2 weeks)
-- Covers: TBD
+- Date: Tuesday, 2026-08-25 (confirmed 8/18)
+- Covers: at least chapters 1-4, possibly more depending on what's finished by then
 
 ## End-of-Quarter Summative
 - Date: unknown
@@ -45,7 +45,7 @@ DONE (confidence: solid, rough start but comprehension and STEAL-spotting improv
   Shows Atticus respects privacy and won't gossip, contrasts directly with Miss Stephanie Crawford.
 
 ## Flagged / Needs Revisit
-- STILL OWED: cold recall check on the STEAL tracker below (Jem/Boo/Atticus). Attempted twice now: 8/13 (too reading-fatigued to recall anything) and 8/15 (teach pass done, walked through the reasoning for all 5 moments fresh, but user was done for the day before the cold recall quiz happened). Teach-side is solid groundwork now, just needs the actual no-notes recall attempt. Try again at the START of next session, before anything else, third time should be the one.
+- STILL OWED: cold recall check on the STEAL tracker below (Jem/Boo/Atticus). Attempted twice now: 8/13 (too reading-fatigued to recall anything) and 8/15 (teach pass done, walked through the reasoning for all 5 moments fresh, but user was done for the day before the cold recall quiz happened). Teach-side is solid groundwork now, just needs the actual no-notes recall attempt. Try again at the START of next session, before anything else, third time should be the one. Test is now confirmed for 2026-08-25, so this needs to happen soon.
 - The scissors-stabbing story (Boo stabbing his father) is told entirely through Miss Stephanie Crawford, "a neighborhood scold" known for gossip. Not confirmed as fact by the narrative itself. Keep treating it as unreliable rumor, not established truth, until/unless the book confirms it later.
 - General note: chapter 1 is unusually dense with background/exposition (family history, town history, Radley backstory) before the actual present-day plot (the dare) gets going. If chapter 2 also drags at first, that's normal, not a comprehension problem.
 

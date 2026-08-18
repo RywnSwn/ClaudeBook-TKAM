@@ -4,8 +4,8 @@
 DONE (confidence: shaky, two comprehension misses below need a revisit before the test)
 
 ## Next Chapter Test
-- Date: unknown (rolling tests roughly every 2 weeks, not yet announced)
-- Covers: TBD, likely chapters 1-3 minimum once announced
+- Date: Tuesday, 2026-08-25 (confirmed 8/18)
+- Covers: at least chapters 1-4, possibly more depending on what's finished by then
 
 ## End-of-Quarter Summative
 - Date: unknown
@@ -65,7 +65,7 @@ DONE (confidence: shaky, two comprehension misses below need a revisit before th
 ## Flagged / Needs Revisit
 - Comprehension miss: what actually triggers Miss Caroline's "It's alive!" scream is the cootie/lice crawling out of Burris Ewell's hair, not his general bad attitude/skipping school. User conflated the lice moment with his later mouthing-off-and-leaving moment, same scene but two separate beats. Needs a quick re-check.
 - Comprehension miss: the end-of-chapter compromise between Scout and Atticus is specifically "keep going to school, keep reading together secretly at night," user's answer didn't land on this at all (said something about labeling/classing people, which isn't part of this deal). Needs a quick re-check, possibly re-read that porch scene.
-- STILL OWED from Chapter 1: cold recall check on the Ch 1 STEAL tracker (Jem/Boo/Atticus), deferred multiple sessions now. Keeps sliding, try again at the very start of next session before anything else.
+- STILL OWED from Chapter 1: cold recall check on the Ch 1 STEAL tracker (Jem/Boo/Atticus), deferred multiple sessions now. Keeps sliding, try again at the very start of next session before anything else. Test is now confirmed for 2026-08-25.
 
 ## Notes
 

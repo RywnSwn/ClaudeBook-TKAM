@@ -6,6 +6,7 @@ DONE (confidence: mostly solid, one comprehension mixup and a "always name all t
 ## Next Chapter Test
 - Date: Tuesday, 2026-08-25 (confirmed 8/18)
 - Covers: at least chapters 1-4, possibly more depending on what's finished by then
+- Assigned reading goes through Chapter 6 (per user, 2026-08-18). Not yet confirmed whether the test itself covers through ch6 or just ch1-4 with ch5-6 being "read ahead" - worth confirming with the user or class info once known.
 
 ## End-of-Quarter Summative
 - Date: unknown
@@ -15,6 +16,7 @@ DONE (confidence: mostly solid, one comprehension mixup and a "always name all t
 - 2026-08-17 - Chapter 4 - full recap + STEAL batch + technique note delivered after user finished the chapter, comprehension + STEAL/technique-targeted questions run at the end
 - 2026-08-17 - Same session, new intel: teacher issued a running "Character Chart" assignment (see notes/Assignment - Character Chart.md), and we scoped how it maps onto STEAL plus the new "Author's Purpose" field it adds.
 - 2026-08-18 - New intel: next chapter test confirmed for Tuesday, 2026-08-25.
+- 2026-08-18 - New intel: assigned reading goes through Chapter 6, not just Chapter 5. Chapter 5 text added to repo same session, user starting to read it.
 
 ## Character Tracker (STEAL)
 ### Jem

@@ -4,8 +4,8 @@
 DONE (confidence: mostly solid, one comprehension mixup and a "always name all three STEAL labels" reminder below)
 
 ## Next Chapter Test
-- Date: unknown (rolling tests roughly every 2 weeks, not yet announced)
-- Covers: TBD, likely chapters 1-4 minimum once announced
+- Date: Tuesday, 2026-08-25 (confirmed 8/18)
+- Covers: at least chapters 1-4, possibly more depending on what's finished by then
 
 ## End-of-Quarter Summative
 - Date: unknown
@@ -14,6 +14,7 @@ DONE (confidence: mostly solid, one comprehension mixup and a "always name all t
 ## Session History
 - 2026-08-17 - Chapter 4 - full recap + STEAL batch + technique note delivered after user finished the chapter, comprehension + STEAL/technique-targeted questions run at the end
 - 2026-08-17 - Same session, new intel: teacher issued a running "Character Chart" assignment (see notes/Assignment - Character Chart.md), and we scoped how it maps onto STEAL plus the new "Author's Purpose" field it adds.
+- 2026-08-18 - New intel: next chapter test confirmed for Tuesday, 2026-08-25.
 
 ## Character Tracker (STEAL)
 ### Jem
@@ -53,18 +54,18 @@ DONE (confidence: mostly solid, one comprehension mixup and a "always name all t
   Consistent with his Chapter 1 stance (mind your own business about the Radleys), clearly suspects exactly what they're doing but chooses a quiet warning over grilling them.
 
 ## Flagged / Needs Revisit
-- STILL OWED from Chapter 1: cold recall check on the Ch 1 STEAL tracker (Jem/Boo/Atticus), owed since 8/13, slid on 8/15 and 8/16 too. Try again at the very start of next session before anything else, this keeps sliding and needs to actually happen.
+- STILL OWED from Chapter 1: cold recall check on the Ch 1 STEAL tracker (Jem/Boo/Atticus), owed since 8/13, slid on 8/15 and 8/16 too. Try again at the very start of next session before anything else, this keeps sliding and needs to actually happen. Test is now confirmed for 2026-08-25, this can't keep sliding.
 - Comprehension mixup: user said the second tinfoil find was "gum" when asked, it was actually the pennies (gum was the first find). Quick, low-stakes mixup, worth a fast recheck next time it comes up rather than a dedicated revisit session.
 - Reminder pattern: when asked for direct/indirect on a specific quote, user gave solid reasoning but skipped naming the STEAL category and technique labels (did this for the "you'll get killed" line, reasoning fit a different moment instead). Not a comprehension problem, just needs the habit of stating all three every time, per the mandatory three-label rule.
-- DEFERRED, scheduled: once Chapter 6 is finished, go back through the Ch 1-4 (then whatever's logged by then) STEAL tracker and tag each moment as either a real "author's purpose" moment (connects to a bigger story/theme) or just character color/texture, per the new Character Chart assignment's "Author's Purpose" column. User explicitly asked to hold this until the ch6 checkpoint rather than doing it now, don't jump the gun on it before then.
+- DEFERRED, scheduled: once Chapter 6 is finished, go back through the Ch 1-4 (then whatever's logged by then) STEAL tracker and tag each moment as either a real "author's purpose" moment (connects to a bigger story/theme) or just character color/texture, per the new Character Chart assignment's "Author's Purpose" column. User explicitly asked to hold this until the ch6 checkpoint rather than doing it now, don't jump the gun on it before then. Note: this deferred pass and the confirmed 8/25 test date may collide, worth flagging again once ch5/6 are actually done to make sure the ch6 checkpoint isn't landing after the test.
 
 ## Notes
 
 ### Claude's remarks
 - This chapter is mostly dialogue and action-on-page with very little direct narrator commentary (tire crashing into the yard, Jem grabbing it, the Boo Radley reenactment). Flagged as strong material for the book-vs-film summative since these are visual, physical beats a camera could show almost exactly as written.
 - The "nigger-talk" line from Scout echoes the "just a Cunningham" moment from Chapter 3, both are Scout repeating classed/prejudiced language she's absorbed without examining it. Worth watching as a recurring pattern across chapters for the character arc.
-- No test date announced yet, so no pacing concern to flag this session, just keeping the Ch 1 recall debt visible so it doesn't get lost.
-- New intel this session: teacher issued a running "Character Chart" assignment across the whole unit (rows: Atticus, Scout, Jem, Dill, Boo, Tom Robinson, Mayella Ewell, Bob Ewell). Columns are Character Traits, Evidence, Characterization Strategy, Author's Purpose. First three columns map almost directly onto our STEAL work (trait = what it reveals, evidence = quote, strategy = our technique label, with "Others' Views" as their name for our Effect on others angle). Author's Purpose is new: why the trait matters to the story/themes, not just how it's shown. Tracked separately in notes/Assignment - Character Chart.md.
+- Test date confirmed 8/18: Tuesday, 2026-08-25, covering at least chapters 1-4. That's one week out, and Chapter 1's cold recall check is still outstanding after 3 sessions, that debt needs to get paid off soon rather than waiting for the day before the test.
+- New intel this session (8/17): teacher issued a running "Character Chart" assignment across the whole unit (rows: Atticus, Scout, Jem, Dill, Boo, Tom Robinson, Mayella Ewell, Bob Ewell). Columns are Character Traits, Evidence, Characterization Strategy, Author's Purpose. First three columns map almost directly onto our STEAL work (trait = what it reveals, evidence = quote, strategy = our technique label, with "Others' Views" as their name for our Effect on others angle). Author's Purpose is new: why the trait matters to the story/themes, not just how it's shown. Tracked separately in notes/Assignment - Character Chart.md.
 
 ### Student's notes
 - (add your own notes here as you go)

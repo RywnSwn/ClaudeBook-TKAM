@@ -21,6 +21,15 @@ DONE (confidence: shaky, one real comprehension gap on the reason for the Radley
   on top of the STEAL batch/comprehension work per chapter, tight. If
   it's 9/7, comfortable. Confirming the real date still matters a lot.
 
+## 2-Day Plan Before the 8/24 Test (set 8/22)
+- Today (8/22): finish the Character Chart (`notes/Assignment - Character
+  Chart.md`). Atticus and Scout done; still need Dill, plus Boo/Tom/
+  Mayella/Bob Ewell whenever they actually appear on the page.
+- Tomorrow (8/23): review questions + a comprehension mock quiz covering
+  Ch1-6, this is the actual last-day recall pass (no new material). Still
+  also owes the Ch1 cold recall check (Jem/Boo/Atticus), owed since 8/13,
+  slid every session since, needs to happen in this window, not slide again.
+
 ## End-of-Quarter Summative
 - Date: unknown
 - Format: book vs. 1962 Mulligan film, compare/contrast how each medium builds character (dialogue/narration vs. acting/camera/editing)

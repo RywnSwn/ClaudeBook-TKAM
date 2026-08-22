@@ -21,26 +21,25 @@ that part of each Evidence cell is left blank below. Fill those in from the
 physical copy/edition being used in class if the assignment needs them.
 
 ## Format convention for the Evidence column
-Evidence from Novel means explaining the moment, what actually happens in
-the scene, in prose, not just dropping a quotation. A short quote can sit
-inside that explanation, but the quote isn't the evidence by itself, the
-explanation of what's going on is.
+Evidence from Novel means one short sentence explaining what happens, not
+a quotation and not a long paragraph. Match the teacher's own style:
+"Atticus refuses to gossip and mention details about the Radley family."
+Plain, brief, to the point.
 
-When a character's row has more than one piece of evidence, write each
-one as its own separate paragraph inside the Evidence cell (no "Block 1/
-Block 2" labels, just paragraph breaks). Author's Purpose stays a single
-unified argument that ties the paragraphs together, one throughline, not
-separate points glued end to end. Add a new paragraph as new evidence
-comes up in later chapters rather than rewriting old ones.
+When a character's row has more than one piece of evidence, stack short
+sentences, one per line/moment, no labels. Author's Purpose stays a
+single unified argument that ties them together, one throughline, not
+separate points glued end to end. Add a new short sentence as new
+evidence comes up in later chapters rather than rewriting old ones.
 
 ## THE OFFICIAL CHART (fill in after every chapter, this is the deliverable)
 
 | Character | Character Traits | Evidence from Novel | Characterization Strategy | Author's Purpose |
 |---|---|---|---|---|
-| **Atticus Finch** | Integrity, respects people's dignity, won't treat others as objects of gossip or charity | When Jem gets curious about the Radleys, Atticus shuts the conversation down and tells him to mind his own business and let the Radleys mind theirs, refusing to join in on the neighborhood's speculation about the family (Ch1).<br><br>When Mr. Cunningham can't pay Atticus for legal work in cash because of his entailment, Atticus accepts payment in goods instead, stovewood, hickory nuts, holly, and eventually a sack of turnip greens, and treats the debt as fully settled rather than something still owed (Ch2). | Dialogue + Actions | Both moments are the same underlying value showing up twice: Atticus treats people's dignity as something to protect, not something he gets to override, whether that means staying out of the Radleys' private business or refusing to let the Cunninghams' in-kind payment feel like charity. It's the same principle he later states outright as the book's central lesson ("climb into his skin and walk around in it," Ch3), here shown in action before he ever puts it into words. |
-| **Scout Finch** | Absorbs prejudiced/classist attitudes from the adults around her without questioning them yet | "He ain't company, Cal, he's just a Cunningham—" (Ch3); "Don't you believe a word he says, Dill... Calpurnia says that's nigger-talk" (Ch4) | Dialogue | Both times an adult corrects her right after (Calpurnia in Ch3), which signals this is the start of a moral-growth arc, not a fixed trait. It sets up the book's larger theme of prejudice by showing how a basically good kid can pick up ugly ideas from her environment without noticing, before she's old enough to examine them. |
+| **Atticus Finch** | Integrity, respects people's dignity, won't treat others as objects of gossip or charity | Atticus refuses to gossip and mention details about the Radley family (Ch1).<br><br>Atticus accepts payment from the Cunninghams through goods, even when they cannot pay through money (Ch2). | Dialogue + Actions | Both moments are the same underlying value showing up twice: Atticus treats people's dignity as something to protect, not something he gets to override, whether that means staying out of the Radleys' private business or refusing to let the Cunninghams' in-kind payment feel like charity. It's the same principle he later states outright as the book's central lesson ("climb into his skin and walk around in it," Ch3), here shown in action before he ever puts it into words. |
+| **Scout Finch** | Absorbs prejudiced/classist attitudes from the adults around her without questioning them yet | Scout snaps at Calpurnia that Walter "ain't company, he's just a Cunningham," embarrassed to have him at the table (Ch3).<br><br>Scout repeats Calpurnia's phrase for Dill's storytelling as "nigger-talk," without thinking about the word itself (Ch4). | Dialogue | Both times an adult corrects her right after (Calpurnia in Ch3), which signals this is the start of a moral-growth arc, not a fixed trait. It sets up the book's larger theme of prejudice by showing how a basically good kid can pick up ugly ideas from her environment without noticing, before she's old enough to examine them. |
 | **Jem Finch** | Ego driven | Jem ran and tapped Radley house, combined with the flashback when he jumped off the house. In the book it's shown after a few taunts from Scout and Dill, Jem succumbs to the peer pressure and touches the Radley house, same as what happens when Jem jumps off the house. The Radley house may hold no meaning to us, but to the characters the house really holds genuine fear. | Actions | This behaviour of doing high risk activities after taunts reveals that Jem is prone to his reputation being "damaged." *(Teacher's own example, kept as given.)* |
-| **Dill** | Genuinely warm-hearted and empathetic underneath his exaggerating and performing | "I figure if he'd come out and sit a spell with us he might feel better" (Ch5, about Boo) | Dialogue | Reframes the whole Boo-Radley game as coming from real sympathy for someone lonely, not just kid mischief or thrill-seeking. Matters for the book's larger theme of treating outsiders/misunderstood people with empathy instead of ridicule, a theme that keeps building around Boo. |
+| **Dill** | Genuinely warm-hearted and empathetic underneath his exaggerating and performing | Dill says Boo might feel better if he just came out and sat with them for a while (Ch5). | Dialogue | Reframes the whole Boo-Radley game as coming from real sympathy for someone lonely, not just kid mischief or thrill-seeking. Matters for the book's larger theme of treating outsiders/misunderstood people with empathy instead of ridicule, a theme that keeps building around Boo. |
 | **Boo Radley** | | | | |
 | **Tom Robinson** | | | | |
 | **Mayella Ewell** | | | | |

@@ -4,9 +4,13 @@
 DONE (confidence: shaky, one real comprehension gap on the reason for the Radley trip, one STEAL direct/indirect mixup, both below)
 
 ## Next Chapter Test
-- Date: Tuesday, 2026-08-25 (confirmed 8/18)
+- Date: Monday, 2026-08-31 (updated 8/22, was Tuesday 8/25)
 - Covers: at least chapters 1-4, possibly more depending on what's finished by then
 - Assigned reading goes through Chapter 6 (per user, 2026-08-18). Not yet confirmed whether the test itself covers through ch6 or just ch1-4 with ch5-6 being "read ahead."
+
+## Reading Pace
+- Target: reach Chapter 11 by Friday, 2026-08-28 (set 8/22). That's 5 chapters (7-11) across roughly a week, on top of the Character Chart / review work below, so pace is tight, worth checking in on this mid-week.
+- Last-day formal review (per skill: no new material, pure recall/quiz pass) should land the day before the test, so around Sunday, 2026-08-30.
 
 ## End-of-Quarter Summative
 - Date: unknown

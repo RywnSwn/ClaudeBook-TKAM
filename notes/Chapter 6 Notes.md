@@ -4,13 +4,23 @@
 DONE (confidence: shaky, one real comprehension gap on the reason for the Radley trip, one STEAL direct/indirect mixup, both below)
 
 ## Next Chapter Test
-- Date: Monday, 2026-08-31 (updated 8/22, was Tuesday 8/25)
-- Covers: at least chapters 1-4, possibly more depending on what's finished by then
-- Assigned reading goes through Chapter 6 (per user, 2026-08-18). Not yet confirmed whether the test itself covers through ch6 or just ch1-4 with ch5-6 being "read ahead."
+- Date: Monday, 2026-08-31 (updated 8/22, was Tuesday 8/25). Covers Chapters 1-6.
+- A second, separate test covers Chapters 7-11. Date NOT confirmed yet, user
+  gave two possible dates on 8/22: Friday 2026-08-28 or Monday 2026-09-07.
+  These are 10 days apart, matters a lot for pace, needs confirming with
+  the teacher rather than assumed. Treat 8/28 as the working target until
+  confirmed otherwise, since planning for the earlier date is the safe
+  default if the real date turns out to be sooner.
 
 ## Reading Pace
-- Target: reach Chapter 11 by Friday, 2026-08-28 (set 8/22). That's 5 chapters (7-11) across roughly a week, on top of the Character Chart / review work below, so pace is tight, worth checking in on this mid-week.
-- Last-day formal review (per skill: no new material, pure recall/quiz pass) should land the day before the test, so around Sunday, 2026-08-30.
+- Target: reach Chapter 11 before the Ch7-11 test above. If that test is
+  really 8/28, that's 5 new chapters (7-11) in 6 days, on top of the STEAL
+  batch/comprehension work per chapter and the ch1-6 review below, not
+  comfortably on pace at that speed. If it's really 9/7, that's 16 days,
+  comfortable. Confirming the real date is the single biggest lever on
+  whether pace is fine or tight right now.
+- Last-day formal review for the 8/31 (ch1-6) test should land the day
+  before, so around Sunday, 2026-08-30.
 
 ## End-of-Quarter Summative
 - Date: unknown
